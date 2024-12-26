@@ -1,0 +1,61 @@
+
+Luis Fernando Cordova Castillo
+
+Full Stack Software Engineer
+
+Address:
+Hermosillo, Sonora, Mex - 83305
+Phone:
+(662) 1 691999
+Email:
+luisfernandocordova.24@gmail.com
+
+Summary
+Skilled in pattern identification and delivering high-performance in customer support, helpdesk operations, business logic workflows, and self-management. Rapidly adapts to new technologies and environments. Additionally, experienced in project management, task prioritization, and risk evaluation.
+
+
+
+Skills, Strengths and Tools
+
+Programming Tools: Nodejs, PHP, Typescript, ReactJS, AngularJS, HTML, CSS, Git, Kafka, Bash
+DB Management: PostgreSQL, MySQL, SQLServer, MongoDB, Redis
+Management Tools: Jira, Microsoft TFS, Asana, GitLab, AWS, Sage Intacct, Oracle Netsuite
+Email Management: Mandrill, Handlebars, Mail chimp
+Design Software: Adobe photoshop
+Leadership: Team leader and project manager experience, Architecture and flow diagrams skills
+
+
+Experience
+Paystand,  ​​Software Engineer Sr., February 2022 - PRESENT 
+Main Tools: Docker, Loopback, React, Angular, Nodejs, Sage Intacct, Oracle NetSuite, MySQL, PostgreSQL, Elasticsearch, Kafka, Elixir, AWS, Javascript, Typescript
+Activities
+- Sage Intacct ERP C2C, And Oracle NetSuite ERP Accounts Receivable Management
+- Implementation and maintenance of API Rest services and creation of custom Scripts and plugins
+- Bank reconciliation and account clearance, for Journals and check - invoice payment administration
+- Develop new product front and back features, deployments and microservices Development with Elixir
+- Software Architecture, Diagrams Modeling and Docs, Agile methodologies, Customer support and help desk tickets
+CT Internacional Del Noroeste, Full Stack Developer, December 2014 - February 2022
+Main Tools: Angular, Express, Bootstrap, PHP, Nodejs, Linux, Bash, SQLServer, Mysql, MongoDB, Microsoft TFS, Javascript
+Activities
+- Ecommerce support and maintenance
+- In-house application development for product pricing/discounts strategies and funds management
+- Tax documents management  and bank payments matching and reconciliation
+- API REST/SOAP secure integration between product providers with a multibranch Ecommerce site
+- Server management and issues solving for safe deployments delivery with multiple environments
+- Team leader and project manager for small features and custom build features
+Campestre El Retiro, Full Stack Web Developer and Project Manager, May 2018 - March 2019
+Main Tools: Angular, Nodejs with Express, Apache Cordova Web View, Bash, Linux, Asana, Droplets, Javascript
+Activities:
+- Project manager and roadmap administration for an integral tool and web view mobile application
+- Amortization panel custom build app, land credit payments management tool, and site content edition
+- User/Roles customization features with payroll payment system.
+KM Solución, Developer Consultant,  January 2014 - December 2014
+Main Tools: Drupal, Joomla, Wordpress, PHP, Bootstrap, MailChimp
+Activities :
+-Business support and integral consulting for customer needs
+-Marketing, social media and technology KPI manager
+-Jr. Web developer and consultant, for over 10 customers with CMS customizable sites
+
+
+Education
+Universidad de Sonora, Hermosillo— College Degree By EGEL-Test For Software Engineer 2014
